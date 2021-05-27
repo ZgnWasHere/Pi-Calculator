@@ -11,7 +11,8 @@ V1.0.0 https://github.com/ZgnWasHere/Pi-Calculator/releases/tag/zgnwashere
 Q: Whats the password?
 -
 A: It's "zgnwashere" as you can see in the "Releases" page.
-# FAQ
+-
 Q: How can i add a language to the application?
 -
 A: Go to the "Releases" page and download "Lines.txt" file, then translate it and send me zgnbusiness@outlook.com
+-
