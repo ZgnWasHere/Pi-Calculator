@@ -4,6 +4,6 @@ No source code for now.
 
 Lmk if you find a bug.
 
-#[url=https://github.com/ZgnWasHere/Pi-Calculator/releases/tag/zgnwashere]Download[\url]
+[url=https://osu.ppy.sh/community/forums/topics/1308217]here[/url]
 
 #FAQ
