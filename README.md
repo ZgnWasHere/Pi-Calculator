@@ -2,7 +2,7 @@
 
 No source code for now.
 
-Lmk if you find a bug.
+Lmk if you find a bug. zgnbusiness@outlook.com
 
 # Releases
 V1.0.0 https://github.com/ZgnWasHere/Pi-Calculator/releases/tag/zgnwashere
